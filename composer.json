@@ -1,5 +1,5 @@
 {
-    "name": "xgenious-fundorex/paymentgateway",
+    "name": "osenco/paymentgateway",
     "description": "a laravel package to manage multiple payment gateway",
     "keywords": [
         "Laravel",
@@ -26,7 +26,7 @@
         "billowapp/payfast": "^0.4.0",
         "mercadopago/dx-php":"^2.4.4",
         "tzsk/payu": "^5.2",
-        "square/square": "18.0.0.20220420",
+        "square/square": "32.0.0.20231018",
         "cinetpay/cinetpay-php": "^1.9",
         "paytabscom/laravel_paytabs": "dev-master",
         "jomweb/billplz-laravel" : "^2.2.2"
